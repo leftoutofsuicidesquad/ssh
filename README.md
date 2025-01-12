@@ -22,3 +22,4 @@ A feature-rich SSH client built in Python with a colorful and user-friendly term
    ```bash
    git clone https://github.com/<your-username>/colorful-ssh-client.git
    cd colorful-ssh-client
+   pip install -r requirements.txt
